@@ -14,6 +14,8 @@ int Prime(int Target) {
 			return 0 ;;;;;;;;;;;;;;;;;;;;;;;;;;bjdvnogneguheruoighuoeg
 		}
 
+		fwaffqagf
+
 
 	}
 

@@ -11,7 +11,7 @@ int Prime(int Target) {
 	for (int i = 2 ; i <= Target-1 ; i++) {
 
 		if (Target % i == 0 ){
-			return 0 ;;;;;;;;;;;;;;;;;
+			return 0 ;;;;;;;;;;;;;;;;;;;;;;;;;;bjdvnogneguheruoighuoeg
 		}
 
 
